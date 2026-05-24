@@ -2,7 +2,7 @@ Summary:	Input module of GTK+ 2.x for Korean using Hangul engine
 Summary(pl.UTF-8):	Moduł wejściowy GTK+ 2.x dla języka koreańskiego wykorzystujący silnik Hangul
 Name:		gtk+2-im-hangul
 Version:	2.1.1
-Release:	1
+Release:	2
 License:	LGPL v2+
 Group:		X11/Libraries
 #Source0Download: https://github.com/choehwanjin/imhangul/releases
